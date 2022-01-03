@@ -2,9 +2,6 @@
 
 - 🔭 I’m currently working on building Full-stack website using Ruby on Rails and JavaScript with React and Redux
 - 🌱 I’m currently learning on learning Python Django backend framework and GraphQL
-<!-- - 👯 I’m looking to collaborate on working in a tech companies that bri
-- 🤔 I’m looking for help with ...
-- 📫 How to reach me:  -->
 - 😄 Pronouns: He/his/him
 - ⚡ Fun fact: An former electrical engineer who is eager to learn new software technologies!
 
