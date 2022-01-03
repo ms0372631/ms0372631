@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on building Full-stack website using Ruby on Rails and JavaScript with React and Redux
 - 🌱 I’m currently learning on learning Python Django backend framework and GraphQL
-- 😄 Pronouns: He/his/him
+- 😄 Pronouns: He/him/his
 - ⚡ Fun fact: An former electrical engineer who is eager to learn new software technologies!
 
 <!--
