@@ -1,7 +1,7 @@
 ### Hi there, I'm Alan👋
 
 - 🔭 I’m currently working on building full-stack website using Ruby on Rails and JavaScript with React and Redux
-- 🌱 I’m currently learning on learning Python Django backend framework and GraphQL
+- 🌱 I’m currently learning Python Django backend framework and GraphQL
 - 😄 Pronouns: He/him/his
 - ⚡ Fun fact: A former electrical engineer who is eager to learn new cool software technologies!
 
