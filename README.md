@@ -1,9 +1,9 @@
 ### Hi there, I'm Alan👋
 
-- 🔭 I’m currently working on building Full-stack website using Ruby on Rails and JavaScript with React and Redux
+- 🔭 I’m currently working on building full-stack website using Ruby on Rails and JavaScript with React and Redux
 - 🌱 I’m currently learning on learning Python Django backend framework and GraphQL
 - 😄 Pronouns: He/him/his
-- ⚡ Fun fact: An former electrical engineer who is eager to learn new software technologies!
+- ⚡ Fun fact: A former electrical engineer who is eager to learn new cool software technologies!
 
 <!--
 **ms0372631/ms0372631** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
